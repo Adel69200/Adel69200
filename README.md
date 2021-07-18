@@ -1,6 +1,6 @@
 
 
-Photo-Github.jpg![Photo-Github](https://user-images.githubusercontent.com/72705372/126044344-55d7bd8f-e210-4ae4-bced-34b99a3c9261.jpg)
+[Photo-Github](https://user-images.githubusercontent.com/72705372/126044344-55d7bd8f-e210-4ae4-bced-34b99a3c9261.jpg)
 
 <h1 align= "center">
   Hello and welcome to you 👋
