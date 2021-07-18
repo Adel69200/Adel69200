@@ -1,17 +1,14 @@
 
-![photo-github](https://user-images.githubusercontent.com/72705372/126068327-cceb7204-2b84-42ad-9f48-276ab14ed12b.png)
+![photo-github](https://user-images.githubusercontent.com/72705372/126077481-ed608033-f964-4bcb-a5ba-38861308f351.png)
 
 
+<br>
 
-
-
-<h1 align= "center">
-  Hello and welcome to you 👋
- </h1>
  
  
  
- 
+
+
 ## Languages/Frameworks/Database:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/Adel69200?tab=repositories&q=&type=&language=javascript)
@@ -21,6 +18,8 @@
 <img width=89px alt="Angular.js" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"/>
 <img width=68px alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 
+<br>
+
 
 ## Outils and IDE:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -28,8 +27,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
-
+<br>
   
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adel69200&layout=compact&theme=yeblu&show_icons=true)](https://github.com/Adel69200/github-readme-stats)
 
 
