@@ -1,6 +1,6 @@
 
+![freelancer](https://user-images.githubusercontent.com/72705372/126067783-464bfc98-2fb4-4085-929b-bc2d1b31575a.png)
 
-![Photo-Github](https://user-images.githubusercontent.com/72705372/126066282-5afc4ca3-d008-4ab7-9f6d-c55da8de8bf8.jpg)
 
 
 
