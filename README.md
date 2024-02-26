@@ -5,18 +5,14 @@
 <br>
 
  
- 
- 
-
 
 ## Languages/Frameworks/Database:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)](https://github.com/Adel69200?tab=repositories&q=&type=&language=javascript)
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/Adel69200?tab=repositories&q=&type=&language=java)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-<img width=89px alt="Angular.js" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"/>
-<img width=68px alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+
 
 <br>
 
@@ -29,7 +25,6 @@
 
 <br>
   
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adel69200&layout=compact&theme=yeblu&show_icons=true)](https://github.com/Adel69200/github-readme-stats)
 
